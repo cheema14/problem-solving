@@ -4,6 +4,5 @@ Well.. in this repository you aren't going to find solutions for the life proble
 <p>This repo contains solutions to mostly asked interview questions. The problems are mostly taken from <br>
 1. Leetcode
 2. Daily coding problem
-3. Codility <br>
-& <br>
-4. those nerd colleagues of mine who have experienced problems during interviews. Either they failed to solve it or they challenge you to find a solution for it :) 
+3. Codility
+4. those nerd colleagues of mine who have experienced problems during interviews. Either they failed to solve it or they challenge you to find a solution for it :)
