@@ -17,3 +17,5 @@ function defangIPaddr($address) {
 
 
 defangIPaddr("8.8.8.8.8");
+defangIPaddr("8.8.8.8");
+defangIPaddr("255.0.0.0");
