@@ -32,6 +32,12 @@ $names = ["Mary","John","Emma"];
 $heights = [180,165,170];
 
 $object = new Solution();
-$object->sortPeople($names,$heights);
-
+$obb = $object->sortPeople($names,$heights);
+echo '<pre>';
+echo "The Data passed:<br>";
+print_r($names);
+print_r($heights);
+echo "<br>";
+echo "The Result:<br>";
+print_r($obb);
 ?>
